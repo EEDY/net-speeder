@@ -1,0 +1,4 @@
+
+# need root privillege
+yum install -y libnet libpcap
+
